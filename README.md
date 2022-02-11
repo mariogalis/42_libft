@@ -1,6 +1,3 @@
 # 42_libft
-Primer Proyecto del cursus de 42 Madrid. Libreria con funciones para usar durante el cursus de 42.
  
-              *******GRADES*******
-        125 --> Students and Moulinette
-https://forthebadge.com/images/badges/made-with-c.svg
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
